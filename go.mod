@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/benbjohnson/immutable v0.4.0
-	github.com/cloudflare/circl v1.2.0
+	github.com/cloudflare/circl v1.3.3
 	github.com/davecgh/go-spew v1.1.1
 	github.com/hashicorp/vault/api v1.8.2
 	github.com/hashicorp/vault/api/auth/approle v0.3.0
@@ -15,14 +15,14 @@ require (
 	go.dedis.ch/kyber/v3 v3.0.14
 	go.mongodb.org/mongo-driver v1.11.0
 	go.uber.org/atomic v1.10.0
-	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a
+	golang.org/x/crypto v0.3.1-0.20221117191849-2c476679df9a
 	lukechampine.com/blake3 v1.1.7
 )
 
 require (
 	github.com/armon/go-metrics v0.3.9 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
-	github.com/bwesterb/go-ristretto v1.2.1 // indirect
+	github.com/bwesterb/go-ristretto v1.2.3 // indirect
 	github.com/cenkalti/backoff/v3 v3.0.0 // indirect
 	github.com/fatih/color v1.7.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
@@ -67,10 +67,10 @@ require (
 	go.dedis.ch/fixbuf v1.0.3 // indirect
 	go.dedis.ch/protobuf v1.0.11 // indirect
 	golang.org/x/exp v0.0.0-20220518171630-0b5c67f07fdf // indirect
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
+	golang.org/x/net v0.2.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
-	golang.org/x/text v0.3.8 // indirect
+	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	google.golang.org/grpc v1.41.0 // indirect
